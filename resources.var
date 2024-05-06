@@ -1,0 +1,5 @@
+Name,Group,PublishedApp,Details
+RDP to Domain Controller,RDP_Home-DC1,RDP Home-DC1,Active Directory Controller
+RDP to Citrix Delivery Controller,RDP_Home-DDCSF,RDP Home-DDCSF,Desktop Delivery Controller
+Browser Access to VMWare Vcenter,HTML_VCSA, VCenter, Edge Browser to vCenter
+Browser Access to Director,HTML_Director, Director, Edge Browser to Director
